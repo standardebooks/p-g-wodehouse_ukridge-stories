@@ -30,3 +30,26 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
+
+[epub|type~="z3998:poem"] p > span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+[epub|type~="z3998:poem"] p > span + br{
+	display: none;
+}
+
+p span.i1{
+	text-indent: -1em;
+	padding-left: 2em;
+}
+
+.signature{
+	font-variant: small-caps;
+}
+
+#chapter-8 blockquote:nth-of-type(n+3):nth-of-type(-n+5){
+	text-align: center;
+}
