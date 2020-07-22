@@ -50,6 +50,7 @@ p span.i1{
 	font-variant: small-caps;
 }
 
-#chapter-8 blockquote:nth-of-type(n+3):nth-of-type(-n+5){
+#chapter-8 blockquote:nth-of-type(n+3):nth-of-type(-n+5),
+#chapter-9 blockquote{
 	text-align: center;
 }
