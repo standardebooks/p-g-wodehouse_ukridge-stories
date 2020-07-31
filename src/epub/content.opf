@@ -41,11 +41,12 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;One of &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;&lt;abbr class="name"&gt;P. G.&lt;/abbr&gt; Wodehouse’s&lt;/a&gt; less famous characters is Stanley Featherstonehaugh Ukridge. Yet he first appears in a novel (&lt;i&gt;Love Among the Chickens&lt;/i&gt;) in 1906 and then continues to make appearances in another 19 short stories until as late as 1966, making him Wodehouse’s longest running character.&lt;/p&gt;
 			&lt;p&gt;Ukridge is an inveterate opportunist and these stories chronicle his exploits as a young man and the trials and tribulations of one who is destined for greatness if the rest of the world would only cooperate. Told from the point of view of his long-suffering friend and fellow bachelor, “Corky” Corcoran they chronicle their many meetings in the years before the period written about in &lt;i&gt;Love Among the Chickens&lt;/i&gt;.&lt;/p&gt;
-			&lt;p&gt;As with most of his stories, Wodehouse published these stories in both the U.S. (&lt;i&gt;Cosmopolitan&lt;/i&gt;) and the UK (&lt;i&gt;Strand Magazine&lt;/i&gt;) before they were published in the 1923 collection &lt;i&gt;Ukridge&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;As with most of his stories, Wodehouse published these stories in both the U.S. (&lt;i&gt;Cosmopolitan&lt;/i&gt;) and the UK (&lt;i&gt;Strand Magazine&lt;/i&gt;) before they were published in the 1924 collection &lt;i&gt;Ukridge&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/61507</dc:source>
 		<dc:source>https://archive.org/details/ukridge00pgw_images</dc:source>
+		<meta property="se:production-notes">The source of first 10 stories is a collection published in 1924 as Ukridge.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Ukridge_(short_story_collection)</meta>
@@ -81,21 +82,21 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="text/chapter-1.xhtml" id="chapter-1.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-2.xhtml" id="chapter-2.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-3.xhtml" id="chapter-3.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-4.xhtml" id="chapter-4.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-5.xhtml" id="chapter-5.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-6.xhtml" id="chapter-6.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-7.xhtml" id="chapter-7.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-8.xhtml" id="chapter-8.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-9.xhtml" id="chapter-9.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-10.xhtml" id="chapter-10.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/first-aid-for-dora.xhtml" id="first-aid-for-dora.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/no-wedding-bells-for-him.xhtml" id="no-wedding-bells-for-him.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-debut-of-battling-billson.xhtml" id="the-debut-of-battling-billson.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-exit-of-battling-billson.xhtml" id="the-exit-of-battling-billson.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-long-arm-of-looney-coote.xhtml" id="the-long-arm-of-looney-coote.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-return-of-battling-billson.xhtml" id="the-return-of-battling-billson.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/ukridge-rounds-a-nasty-corner.xhtml" id="ukridge-rounds-a-nasty-corner.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/ukridge-sees-her-through.xhtml" id="ukridge-sees-her-through.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/ukridges-accident-syndicate.xhtml" id="ukridges-accident-syndicate.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/ukridges-dog-college.xhtml" id="ukridges-dog-college.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
@@ -103,16 +104,16 @@
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="dedication.xhtml"/>
 		<itemref idref="halftitle.xhtml"/>
-		<itemref idref="chapter-1.xhtml"/>
-		<itemref idref="chapter-2.xhtml"/>
-		<itemref idref="chapter-3.xhtml"/>
-		<itemref idref="chapter-4.xhtml"/>
-		<itemref idref="chapter-5.xhtml"/>
-		<itemref idref="chapter-6.xhtml"/>
-		<itemref idref="chapter-7.xhtml"/>
-		<itemref idref="chapter-8.xhtml"/>
-		<itemref idref="chapter-9.xhtml"/>
-		<itemref idref="chapter-10.xhtml"/>
+		<itemref idref="ukridges-dog-college.xhtml"/>
+		<itemref idref="ukridges-accident-syndicate.xhtml"/>
+		<itemref idref="the-debut-of-battling-billson.xhtml"/>
+		<itemref idref="first-aid-for-dora.xhtml"/>
+		<itemref idref="the-return-of-battling-billson.xhtml"/>
+		<itemref idref="ukridge-sees-her-through.xhtml"/>
+		<itemref idref="no-wedding-bells-for-him.xhtml"/>
+		<itemref idref="the-long-arm-of-looney-coote.xhtml"/>
+		<itemref idref="the-exit-of-battling-billson.xhtml"/>
+		<itemref idref="ukridge-rounds-a-nasty-corner.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
