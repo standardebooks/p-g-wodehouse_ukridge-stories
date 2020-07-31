@@ -26,11 +26,6 @@ section[epub|type~="dedication"] > *{
 }
 /* End all dedications */
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 [epub|type~="z3998:poem"] p > span{
 	display: block;
 	text-indent: -1em;
@@ -64,7 +59,7 @@ footer{
 	font-variant: small-caps;
 }
 
-#chapter-8 blockquote:nth-of-type(n+3):nth-of-type(-n+5),
-#chapter-9 blockquote{
+#the-long-arm-of-looney-coote blockquote:nth-of-type(n+3):nth-of-type(-n+5),
+#the-exit-of-battling-billson blockquote{
 	text-align: center;
 }
