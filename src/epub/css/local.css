@@ -55,11 +55,12 @@ footer{
 	font-variant: small-caps;
 }
 
+.poster,
 .signature{
 	font-variant: small-caps;
 }
 
-#the-long-arm-of-looney-coote blockquote:nth-of-type(n+3):nth-of-type(-n+5),
+.poster,
 #the-exit-of-battling-billson blockquote{
 	text-align: center;
 }
