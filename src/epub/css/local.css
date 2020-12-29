@@ -52,7 +52,7 @@ footer{
 
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
-	text-align: left;
+	text-align: initial;
 }
 
 [epub|type~="z3998:salutation"] + p{
