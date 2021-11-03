@@ -38,6 +38,7 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of stories featuring P. G. Wodehouse’s charismatic character Stanley Featherstonehaugh Ukridge.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Stanley Featherstonehaugh Ukridge is one of &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;&lt;abbr class="name"&gt;P. G.&lt;/abbr&gt; Wodehouse’s&lt;/a&gt; less famous characters. He first appears in &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse/love-among-the-chickens"&gt;&lt;i&gt;Love Among the Chickens&lt;/i&gt;&lt;/a&gt; in 1906 and then continues to make appearances in another 19 short stories until as late as 1966, making him Wodehouse’s longest running character.&lt;/p&gt;
