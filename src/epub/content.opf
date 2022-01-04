@@ -98,6 +98,7 @@
 		<item href="text/no-wedding-bells-for-him.xhtml" id="no-wedding-bells-for-him.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-debut-of-battling-billson.xhtml" id="the-debut-of-battling-billson.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-exit-of-battling-billson.xhtml" id="the-exit-of-battling-billson.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-level-business-head.xhtml" id="the-level-business-head.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-long-arm-of-looney-coote.xhtml" id="the-long-arm-of-looney-coote.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-return-of-battling-billson.xhtml" id="the-return-of-battling-billson.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -125,6 +126,7 @@
 		<itemref idref="ukridge-rounds-a-nasty-corner.xhtml"/>
 		<itemref idref="a-bit-of-luck-for-mabel.xhtml"/>
 		<itemref idref="buttercup-day.xhtml"/>
+		<itemref idref="the-level-business-head.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
