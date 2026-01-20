@@ -51,7 +51,7 @@
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.150277</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100492999</dc:source>
 		<meta property="se:production-notes">The source of the first 10 stories is a collection published in 1924 as "Ukridge." Three more came from the 1925 "Eggs, Beans and Crumpets".</meta>
-		<meta property="se:word-count">105448</meta>
+		<meta property="se:word-count">103313</meta>
 		<meta property="se:reading-ease.flesch">74.49</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Ukridge_(short_story_collection)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_ukridge-stories</meta>
